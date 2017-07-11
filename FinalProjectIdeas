@@ -1,0 +1,19 @@
+Rate Check
+- The idea is to compare users current insurance premium based on Number of Drivers, Age of Drivers, Number of vehicles, and State of residence (User would enter current insurance company which could then store info for Liberty to compare self reported insurance rates).
+
+This is not a insurance quote this is simply a comparison with a return of the percentage chance that Liberty Mutual could beat the current rate.
+This app could also save data such as current rates from other insurance companies.
+If Liberty confidence rating is high (Meaning Liberty could 80% of the time beat the current submitted rate).. UI could return an agent or contact person for that area (Possibly use Google Maps api).
+Self vehicle Appraisal
+-User submits Year, Make and Model of vehicle, where damages occured on vehicle. A table contains list of parts for different vehicles with labor rates and costs and returns an estimate of damages to the customer.
+Liberty could then automate payment based on estimate or give further instructions.
+If over a certain threshold (say 1k in damages) appraiser could be dispatched.
+Discount Check
+- User submits a request to agent to assess current policy for discounts or coverage gaps.
+System would check for potential gaps and potential discounts.  This information would be passed to the agent and the customer.
+Agent Claim Reporting
+- App that allows agent to report a claim to the claims department.
+Location of accident, date of accident, policy number, PI or CI etc..  User would receive confirmation of claim and a 24hr contact .  Along with an explanation of expectations for the claims process.
+Customer Claim Reporting
+Agent Sales performance tracking
+App that tracks agents sales performance.  Each agent would be given a regional goal and the agent could login and check where they stand in relation to other agents.
